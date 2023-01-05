@@ -1,0 +1,21 @@
+Selenium:
+
+Revise all Selenim & Java related projects in IntelliJ (GUKIREET --> IdeaProjects --> All selenium & Java related projects)
+Watch videos on how to master in writing xpath & CSS selectors
+Learn how to write Helper methods
+Selenium Interview questions
+
+API:
+Revise all RestAssured related projects in IntelliJ (GUKIREET --> IdeaProjects --> All RestAssured related projects)
+API testing using RestAssuredInterview questions
+
+About GIT
+
+CI/CD for Selenium testers (Jenkins)
+
+About SQL Queries
+
+About Manual testing Interview questions
+
+About Jira
+
